@@ -1,0 +1,145 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.header {
+  color: #36A0FF;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 25px;
+  color: #36A0FF;
+}
+.App-link {
+  color: #61dafb;
+}
+
+.login-block{
+background: #DE6262;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom,rgb(247, 220, 203), rgb(8, 0, 0));  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #1e3c72,#1e3c72); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+float:left;
+height:910px;
+width:100%;
+padding : 50px 0;
+}
+.login-container{
+margin-top: 5%;
+margin-bottom: 5%;
+
+}
+.login-form-1{
+padding: 5%;
+background-image: url(../src/Images/login2.jpg);
+background-size: 570px 480px;  
+background-color:white;
+box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h3{
+text-align: center;
+color: #333;
+}
+.login-form-2{
+padding: 5%;
+background: #0062cc;
+box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-2 h3{
+text-align: center;
+color: #fff;
+}
+.login-container form{
+padding: 10%;
+}
+.btnSubmit
+{
+width: 50%;
+border-radius: 1rem;
+padding: 1.5%;
+border: none;
+cursor: pointer;
+}
+.login-form-1 .btnSubmit{
+font-weight: 600;
+color: #fff;
+background-color: #0062cc;
+}
+.login-form-2 .btnSubmit{
+font-weight: 600;
+color: #0062cc;
+background-color: #fff;
+}
+.login-form-2 .ForgetPwd{
+color: #fff;
+font-weight: 600;
+text-decoration: none;
+}
+.login-form-1 .ForgetPwd{
+color: #0062cc;
+font-weight: 600;
+text-decoration: none;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
