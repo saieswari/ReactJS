@@ -1,0 +1,120 @@
+
+
+/*Dashboard*/
+
+.active {
+  font-weight: 650;
+}
+
+.nav-item {
+  font-weight: 400;
+  margin: 0px 0px 0px 10px;
+}
+
+.brand-font {
+  font-size: 35px;
+  margin: 0px 20px 0px 20px;
+}
+
+.white-font {
+  color: white;
+}
+
+.logout {
+  margin: 0px 0px 0px 400px;
+}
+
+.logout:hover {
+  color: rgb(255, 255, 255);
+}
+
+/*Employee Asset*/
+
+.table-content {
+  /* width: 70%; */
+  margin-left: 0px;
+}
+
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 60px;
+  right: 40px;
+  background: -webkit-linear-gradient(left, #0072ff, #8811c5) !important;
+  color: #FFF;
+  border-radius: 50px;
+  text-align: center;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 2;
+}
+
+.my-float {
+  margin-top: 22px;
+}
+
+.popup-content {
+  z-index: 250 !important;
+  position: absolute !important;
+  top: 60px !important;
+  width: 500px !important;
+}
+
+.bg-primary, .btn-primary {
+  background: -webkit-linear-gradient(left, #0072ff, #8811c5) !important;
+  border-color: white !important;
+}
+
+.btn-danger {
+  background-color: white !important;
+  border-color: white !important;
+  color: black !important;
+}
+
+.bg-secondary {
+  /* background-color: #687179 !important; */
+  background: -webkit-linear-gradient(left, #0072ff, #8811c5) !important;
+  border-color: white !important;
+}
+
+.bg-dark {
+  background: -webkit-linear-gradient(left, #0072ff, #8811c5) !important;
+  border-color: white !important;
+}
+
+.btn {
+  border-radius: 150px;
+}
+
+.btn-info {
+  background-color: #8811c5 !important;
+  border-color: #8811c5 !important;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+  background-color: #8811c5 !important;
+  border-color: #8811c5 !important;
+  color: white !important;
+}
+
+.pagination>li>a, .pagination>li>span {
+  color: black !important;
+}
+
+.floar-right {
+  float: right;
+}
+
+tbody + thead{
+ display: none;
+}
+
+.red-text{
+  color: red;
+}
+
+thead
+{
+  background: -webkit-linear-gradient(left, #0072ff, #8811c5) !important;
+  color: white;
+}

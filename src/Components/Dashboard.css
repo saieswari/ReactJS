@@ -1,0 +1,27 @@
+.center-align {
+  text-align: center;
+}
+.graph-size{
+    margin: 0rem 2rem 1rem 2rem;
+    box-shadow: 2px 2px 3px #999;
+  }
+  .card-size{
+    margin: 2rem 2rem 2rem ;
+    padding: 1rem 0.4rem 0.4rem 0.4rem;
+    box-shadow: 2px 2px 3px #999;
+  }
+  .row
+  {
+    margin-right: 5px!important;
+    margin-left: 5px!important;
+  }
+  .fa{
+    padding: 0rem 0rem 1rem 0rem;
+  }
+ .bg-secondary{
+   background-color: #687179;
+ }
+ .bg-dark{
+  background-color: black;
+
+ }
