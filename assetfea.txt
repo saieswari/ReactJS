@@ -1,0 +1,73 @@
+																	                                                  Asset
+	(Hardware)																
+	New
+	Fields (snipe-IT)
+		Asset Name
+		Picture
+		Description
+		Model
+		Barcode
+		Vendor
+		Date of purchased
+		Cost
+		Warranty
+		Serial number
+		Spec
+		Means of purchased
+		Purchased by whom aka Responsibility
+		Bill
+
+	Updation
+		Repair 
+		Parts
+		Cost
+		Date of handover
+		Date of reception
+		Vendor
+		Bill
+
+	(Software)
+
+	New
+		Name:
+		Cost:
+		Date of Purchased
+		Vendor
+		Expiry date
+		For which DU(aka Category)
+		Access(Whom can install)
+		Buyer(responsibility)
+                                      ProductKey
+		Number of person can share
+		Bill
+
+	Edit
+		Updation(Type)
+		Cost
+		Expiry date
+		Features added
+		Bill
+
+	                   Upgrade(Type)
+		Cost
+		Expiry date
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+							Employee
+
+Employee Code
+Employee Name
+DU
+Designation
+Location
+Email ID
+Mobile
+Access given
+Asset Eligibility
+
+------------------------------------------------------------------------------------------------Features-----------------------------------------------------------------------
+		
+		
+
+	
+
